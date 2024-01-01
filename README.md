@@ -39,10 +39,8 @@
 
 ## OTP Verification
 <p align="center">
-  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/268433d6-4df0-4279-86ca-4d01fbbface1" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/268433d6-4df0-4279-86ca-4d01fbbface1" width="300" height="500" />
-  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/6d23ebb3-1c46-4a3f-b760-18355847dcb8" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/6d23ebb3-1c46-4a3f-b760-18355847dcb8" width="300" height="500"  />
+  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/c3350f8c-d9d3-48e7-9ca5-d0b4dcbfd33a" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/c3350f8c-d9d3-48e7-9ca5-d0b4dcbfd33a" width="300" height="500" />
 </p>
-![WhatsApp Image 2023-07-30 at 22 23 005](https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/c3350f8c-d9d3-48e7-9ca5-d0b4dcbfd33a)
 
 ## Details
 <p align="center">
