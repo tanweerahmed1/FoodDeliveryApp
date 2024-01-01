@@ -29,10 +29,10 @@
 ## Confirm Order
 <p align="center">
   <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/cb1ed743-b44d-44a0-9bd3-f71c88fa0ed5" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/cb1ed743-b44d-44a0-9bd3-f71c88fa0ed5" width="300" height="500" />
-  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/6d23ebb3-1c46-4a3f-b760-18355847dcb8" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/6d23ebb3-1c46-4a3f-b760-18355847dcb8" width="300" height="500"  />
+  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/408e5ef1-05a8-4730-8c3f-3dcda3d4ecb1" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/408e5ef1-05a8-4730-8c3f-3dcda3d4ecb1" width="300" height="500"  />
 </p>
 ![Screenshot_1690805600](https://github.com/tanweerahmed1/FoodDeliveryApp/assets/)
-![WhatsApp Image 2023-07-30 at 22 23 017](https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/408e5ef1-05a8-4730-8c3f-3dcda3d4ecb1)
+![WhatsApp Image 2023-07-30 at 22 23 017](https://github.com/tanweerahmed1/FoodDeliveryApp/assets/)
 
 ## Forget Password
 <p align="center">
