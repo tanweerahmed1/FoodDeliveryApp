@@ -52,14 +52,11 @@
   <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/ea978d8a-7b6a-44df-8f16-832c6aa62bcc" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/ea978d8a-7b6a-44df-8f16-832c6aa62bcc" width="300" height="500" />
   <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/7774ca6f-ae30-4c1f-884c-08341f1de924" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/7774ca6f-ae30-4c1f-884c-08341f1de924" width="300" height="500"  />
 </p>
-![WhatsApp Image 2023-07-30 at 22 23 018](https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/ea978d8a-7b6a-44df-8f16-832c6aa62bcc)
-![WhatsApp Image 2023-07-30 at 22 23 029](https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/7774ca6f-ae30-4c1f-884c-08341f1de924)
 
 ## Profile
 <p align="center">
   <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/502119fd-fc38-422f-bee0-303f7cd60a58" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/502119fd-fc38-422f-bee0-303f7cd60a58" width="300" height="500" />
 </p>
-![WhatsApp Image 2023-07-30 at 22 23 0211](https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/502119fd-fc38-422f-bee0-303f7cd60a58)
 
 ## Validation
 <p align="center">
