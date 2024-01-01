@@ -4,8 +4,8 @@
 ## SignIn and SignUp
 
 <p align="center">
-  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/268433d6-4df0-4279-86ca-4d01fbbface1" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/268433d6-4df0-4279-86ca-4d01fbbface1" width="300" height="500" align="left"  />
-  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/6d23ebb3-1c46-4a3f-b760-18355847dcb8" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/6d23ebb3-1c46-4a3f-b760-18355847dcb8" width="300" height="500"  align="right" />
+  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/268433d6-4df0-4279-86ca-4d01fbbface1" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/268433d6-4df0-4279-86ca-4d01fbbface1" width="300" height="500" margin-right="50"  />
+  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/6d23ebb3-1c46-4a3f-b760-18355847dcb8" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/6d23ebb3-1c46-4a3f-b760-18355847dcb8" width="300" height="500"  />
 </p>
 
 
