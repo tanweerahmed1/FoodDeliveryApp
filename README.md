@@ -31,15 +31,11 @@
   <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/cb1ed743-b44d-44a0-9bd3-f71c88fa0ed5" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/cb1ed743-b44d-44a0-9bd3-f71c88fa0ed5" width="300" height="500" />
   <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/408e5ef1-05a8-4730-8c3f-3dcda3d4ecb1" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/408e5ef1-05a8-4730-8c3f-3dcda3d4ecb1" width="300" height="500"  />
 </p>
-![Screenshot_1690805600](https://github.com/tanweerahmed1/FoodDeliveryApp/assets/)
-![WhatsApp Image 2023-07-30 at 22 23 017](https://github.com/tanweerahmed1/FoodDeliveryApp/assets/)
 
 ## Forget Password
 <p align="center">
-  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/268433d6-4df0-4279-86ca-4d01fbbface1" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/268433d6-4df0-4279-86ca-4d01fbbface1" width="300" height="500" />
-  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/6d23ebb3-1c46-4a3f-b760-18355847dcb8" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/6d23ebb3-1c46-4a3f-b760-18355847dcb8" width="300" height="500"  />
+  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/13d6b6ba-ff3d-4aa0-86a1-5ffc0b89d028" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/13d6b6ba-ff3d-4aa0-86a1-5ffc0b89d028" width="300" height="500" />
 </p>
-![WhatsApp Image 2023-07-30 at 22 23 004](https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/13d6b6ba-ff3d-4aa0-86a1-5ffc0b89d028)
 
 ## OTP Verification
 <p align="center">
