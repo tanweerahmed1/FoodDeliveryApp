@@ -15,17 +15,11 @@
   <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/eaf1c77e-007d-4d6b-840a-f1b20798e8a0" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/eaf1c77e-007d-4d6b-840a-f1b20798e8a0" width="300" height="500"  />
 </p>
 
-![Screenshot_1690802070](https://github.com/tanweerahmed1/FoodDeliveryApp/assets)
-![WhatsApp Image 2023-07-30 at 22 22 57](https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/9c008852-a12c-4694-b2b9-a27a6b5e3be4)
-![Screenshot_1690802103](https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/eaf1c77e-007d-4d6b-840a-f1b20798e8a0)
-
 ## Cart
 <p align="center">
-  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/268433d6-4df0-4279-86ca-4d01fbbface1" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/268433d6-4df0-4279-86ca-4d01fbbface1" width="300" height="500" />
-  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/6d23ebb3-1c46-4a3f-b760-18355847dcb8" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/6d23ebb3-1c46-4a3f-b760-18355847dcb8" width="300" height="500"  />
+  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/3facc7ff-0a65-4fc2-968c-b22a48d6069c" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/3facc7ff-0a65-4fc2-968c-b22a48d6069c" width="300" height="500" />
+  <img src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/e4b55c62-5d1b-4ec2-b301-24f4012211fa" data-canonical-src="https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/e4b55c62-5d1b-4ec2-b301-24f4012211fa" width="300" height="500"  />
 </p>
-![Screenshot_1690802250](https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/3facc7ff-0a65-4fc2-968c-b22a48d6069c)
-![Screenshot_1690802458](https://github.com/tanweerahmed1/FoodDeliveryApp/assets/136143476/e4b55c62-5d1b-4ec2-b301-24f4012211fa)
 
 ## Loader
 <p align="center">
